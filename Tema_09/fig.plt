@@ -11,8 +11,8 @@ set xtics scale 2
 
 f(x) = x
 
-plot 'speedup.dat' u 1:2 w p pt 7 ps 2.5 lc rgb "red" t 'Escalabilidad \texttt{vector.cpp}',\
-     f(x) w l lw 3 lc rgb "red" t 'Escalabilidad Lineal'
+plot 'speedup.dat' u 1:2 w p pt 7 ps 2.5 lc rgb "red" t 'Aceleración \texttt{vector.cpp}',\
+     f(x) w l lw 3 lc rgb "red" t 'Aceleración Lineal'
 
 set output
 system('latex Figure.tex')
