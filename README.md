@@ -40,9 +40,9 @@ mpicxx -O2 dot_product.cpp -o dot_product.x
 # Academic Credits & Acknowledgments
 ## This repository is built upon the foundational materials of the Computational Physics (FS0432) course from the University of Costa Rica (UCR).
 
-### Original Course Design: * Dr. Federico Muñoz Rojas and Dr. Marlon Brenes Porras
+### Original Course Design: Dr. Federico Muñoz Rojas, Dr. Marlon Brenes Porras and assistants at School of Physics, UCR.
 
-### Extended Development, Graphics & Reports: Sebastián Alí Sacasa Céspedes.
+### Extended Development on solutions Graphics & Reports: Sebastián Alí Sacasa Céspedes.
 
 ### Reference Source: [mbrenesn/FisicaComputacional](https://github.com/mbrenesn/FisicaComputacional)
 
