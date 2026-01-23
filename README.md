@@ -34,17 +34,17 @@ For parallel execution, ensure you have an MPI implementation (like OpenMPI or M
 # Example Compilation for Parallel DFT
 g++ -fopenmp -O2 fourier.cpp -o fourier.x
 mpicxx -O2 dot_product.cpp -o dot_product.x
+
 ---
-Academic Credits & Acknowledgments
-This repository is built upon the foundational materials of the Computational Physics (FS0432) course from the University of Costa Rica (UCR).
 
-Original Course Design: * Dr. Federico Muñoz Rojas
+# Academic Credits & Acknowledgments
+## This repository is built upon the foundational materials of the Computational Physics (FS0432) course from the University of Costa Rica (UCR).
 
-Dr. Marlon Brenes Porras
+### Original Course Design: * Dr. Federico Muñoz Rojas and Dr. Marlon Brenes Porras
 
-Extended Development, Graphics & Reports: Sebastián Alí Sacasa Céspedes.
+### Extended Development, Graphics & Reports: Sebastián Alí Sacasa Céspedes.
 
-Reference Source: mbrenesn/FisicaComputacional
+### Reference Source: [mbrenesn/FisicaComputacional](https://github.com/mbrenesn/FisicaComputacional)
 
 ---
 
