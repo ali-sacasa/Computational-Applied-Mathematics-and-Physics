@@ -42,7 +42,7 @@ mpicxx -O2 dot_product.cpp -o dot_product.x
 
 ### Original Course Design: Dr. Federico Muñoz Rojas, Dr. Marlon Brenes Porras and assistants at School of Physics, UCR.
 
-### Extended Development on solutions Graphics & Reports: Sebastián Alí Sacasa Céspedes.
+### Extended Development on Solutions, Graphics & Reports: Sebastián Alí Sacasa Céspedes.
 
 ### Reference Source: [mbrenesn/FisicaComputacional](https://github.com/mbrenesn/FisicaComputacional)
 
